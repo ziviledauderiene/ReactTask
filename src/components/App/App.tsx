@@ -36,7 +36,7 @@ const App: React.FunctionComponent = () => {
             path="*"
             element={
               <Card>
-                <ErrorComponent message="Page not found" button="HOME" />
+                <ErrorComponent message="Page not found" button="HOME" error={'Page not found'} />
               </Card>
             }
           />
