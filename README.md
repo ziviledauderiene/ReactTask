@@ -1,3 +1,7 @@
+![screenshot030](https://user-images.githubusercontent.com/96768501/193783661-1b1df0c7-d7a6-46da-af2b-040fd8274655.png)
+
+![screenshot036](https://user-images.githubusercontent.com/96768501/193783539-ff47a668-be2b-4ab2-95c8-7959e46f8e9e.png)
+
 # ReactTask - Task assignment
 
 This task looks like an average task you will receive from us. But it's scope is bigger than usual, since we want to see as much skills as possible from you.
