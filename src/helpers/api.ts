@@ -3,7 +3,7 @@ import axios, { AxiosRequestConfig } from 'axios';
 //param - location or id
 function options(endpoint: string, param?: string): AxiosRequestConfig {
   const forecaUrl: string = 'https://pfa.foreca.com/api/v1/';
-  const accessToken = process.env.TOKEN;
+  const accessToken = document.cookie.slice(6);
   if (param) {
     return {
       url: forecaUrl + endpoint + param,
