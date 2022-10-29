@@ -1,6 +1,11 @@
-![screenshot030](https://user-images.githubusercontent.com/96768501/193783661-1b1df0c7-d7a6-46da-af2b-040fd8274655.png)
+### Home page:
+![Screenshot 2022-10-29 at 21-31-30 React Training App](https://user-images.githubusercontent.com/96768501/198847582-9bf61220-3ed0-4307-a75c-b55d50831c14.png)
 
-![screenshot036](https://user-images.githubusercontent.com/96768501/193783539-ff47a668-be2b-4ab2-95c8-7959e46f8e9e.png)
+### Cities page:
+![Screenshot 2022-10-29 at 21-31-57 React Training App](https://user-images.githubusercontent.com/96768501/198847589-0b02d950-c523-49a1-b04a-a06702719345.png)
+
+### Contacts page (dark theme):
+![Screenshot 2022-10-29 at 21-33-49 React Training App](https://user-images.githubusercontent.com/96768501/198847605-c4111507-65ae-4e38-a357-912cd09193bc.png)
 
 # ReactTask - Task assignment
 
